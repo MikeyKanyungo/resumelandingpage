@@ -1,0 +1,72 @@
+body {
+  background-color: #f5f5f5;
+  color: #4e4e4e;
+}
+
+.cv-body {
+  padding: 4rem;
+}
+
+.title {
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.socials ul li {
+  display: inline-block;
+}
+.socials-item {
+  padding-right: 20px;
+}
+
+.bi-twitter, .bi-facebook, .bi-github, .bi-instagram, .bi-github, .bi-linkedin {
+  color: #cc00cc;
+  font-size: 30px;
+  float: left;
+}
+.socials {
+  font-size: 1.2rem;
+  border-radius: 50%;
+  line-height: 1.6;
+  margin: 0 15px 0 0;
+  transition: all 500ms ease;
+}
+
+.in-title {
+  text-decoration: initial;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'times new roman';
+}
+
+.bottom-line {
+  width: 80px;
+  height: 10px;
+  background-color: #cc00cc;
+  margin: 0 auto;
+  float: left;
+}
+
+.title-box {
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+}
+.title-box-right {
+  margin-bottom: 3rem;
+}
+.right-bar {
+  width: 10px;
+  height: 100%;
+  float: left;
+  background-color: black;
+}
+
+.bi:hover {
+  font-weight: bold;
+}
+
+.progress-bar {
+  background-color: #cc00cc;
+}
